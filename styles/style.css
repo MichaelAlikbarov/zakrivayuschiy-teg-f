@@ -424,6 +424,7 @@ dialog::backdrop {
   font-family: var(--accent-font), fantasy;
   line-height: .9;
   max-width: 234px;
+  color: var(--main-color);
 }
 
 .dialog__container .floppy-icon {

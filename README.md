@@ -5,4 +5,4 @@
 
 Ссылка на гит: https://github.com/MichaelAlikbarov/zakrivayuschiy-teg-f.git
 
-Ссылка на сайт:
+Ссылка на сайт: https://michaelalikbarov.github.io/zakrivayuschiy-teg-f/
