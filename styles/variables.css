@@ -1,7 +1,7 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
     --accent-font: PressStart2P;
-    --main-font: Inter-Variable;
+    --main-font: Inter;
     --wght-title: 700;
     --wght-text: 400;
     --bg-image: url("../images/background.png");
@@ -10,7 +10,7 @@
     --linear-gradient: linear-gradient(#E7E7E7 0%, #E7E7E7 .1%, #1A1A1A 100%);
     --main-color: #000000;
     --bg-color: #FFFFFF;
-    --fs-header-title: font-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
-    --fs-header-subtitle: font-size: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
-    --heart-color: red;
+    --heart-color: #FF0000;
+    --font-sise-article: 18px;
+    --color-text-decoration: #FFFFFF;
 }
