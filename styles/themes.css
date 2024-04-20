@@ -14,8 +14,6 @@
     --linear-gradient: linear-gradient(#E7E7E7 0%, #E7E7E7 .1%, #1A1A1A 100%);
     --main-color: #000000;
     --bg-color: #FFFFFF;
-    /* --fs-header-title: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem); */
-    /* --fs-header-subtitle: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem); */
     --accent-color-btn: #FFFFFF;
     --font-sise-article: 18px;
     --color-text-decoration: #FFFFFF;
