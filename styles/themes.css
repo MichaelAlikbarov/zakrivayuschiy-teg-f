@@ -6,7 +6,7 @@
 */
 :root.theme-light {
     --accent-font: PressStart2P;
-    --main-font: Inter-Variable;
+    --main-font: Inter;
     --wght-title: 700;
     --wght-text: 400;
     --horizon-linear-gradient: repeating-linear-gradient(90deg, #d3d3d3 0 2px, transparent 2px 4px);
@@ -22,7 +22,7 @@
 @media (prefers-color-scheme: light) {
     :root {
         --accent-font: PressStart2P;
-        --main-font: Inter-Variable;
+        --main-font: Inter;
         --wght-title: 700;
         --wght-text: 400;
         --horizon-linear-gradient: repeating-linear-gradient(90deg, #d3d3d3 0 2px, transparent 2px 4px);
